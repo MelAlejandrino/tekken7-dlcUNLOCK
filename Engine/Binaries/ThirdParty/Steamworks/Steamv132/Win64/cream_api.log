@@ -1,0 +1,97 @@
+[10:25:14][INFO] CreamAPI v4.1.0 created by deadmau5 (c) CS.RIN.RU, 2016-2019. All rights reserved.
+[10:25:14][INFO] [steam] appid 389730
+[10:25:14][INFO] [steam] timestamp 0
+[10:25:14][INFO] [steam] orgapi32 "steam_api_o.dll"
+[10:25:14][INFO] [steam] orgapi64 "steam_api64_o.dll"
+[10:25:14][INFO] [steam] language "english"
+[10:25:14][INFO] [steam] unlockall false
+[10:25:14][INFO] [steam] extraprotection false
+[10:25:14][INFO] [steam] forceoffline false
+[10:25:14][INFO] [steam] lowviolence false
+[10:25:14][INFO] [steam_misc] disableuserinterface false
+[10:25:14][INFO] [dlc] 1114550 TEKKEN 7 - Season Pass 3
+[10:25:14][INFO] [dlc] 1114560 TEKKEN 7 - SP3 Bonus Character Customization Items
+[10:25:14][INFO] [dlc] 1114561 TEKKEN 7 - DLC10: Zafina
+[10:25:14][INFO] [dlc] 1147580 SteamDB Unknown App 1147580
+[10:25:14][INFO] [dlc] 1162600 TEKKEN 7 - DLC11: Ganryu
+[10:25:14][INFO] [dlc] 1162601 TEKKEN 7 - DLC12: Leroy Smith
+[10:25:14][INFO] [dlc] 1162602 TEKKEN 7 - DLC13: Frame Data Display
+[10:25:14][INFO] [dlc] 1236500 TEKKEN 7 - DLC14: Fahkumram
+[10:25:14][INFO] [dlc] 1236501 TEKKEN 7 - DLC15: CAVE OF ENLIGHTENMENT
+[10:25:14][INFO] [dlc] 1289450 SteamDB Unknown App 1289450
+[10:25:14][INFO] [dlc] 1289451 SteamDB Unknown App 1289451
+[10:25:14][INFO] [dlc] 1289452 SteamDB Unknown App 1289452
+[10:25:14][INFO] [dlc] 1289453 SteamDB Unknown App 1289453
+[10:25:14][INFO] [dlc] 1289454 SteamDB Unknown App 1289454
+[10:25:14][INFO] [dlc] 580020 TEKKEN 7 - Season Pass
+[10:25:14][INFO] [dlc] 592370 TEKKEN 7 - Eliza Pre-order Bonus - DLC (TEKKEN 7 Eliza Character)
+[10:25:14][INFO] [dlc] 592371 TEKKEN 7 - Metallic costumes Season Pass Bonus - DLC
+[10:25:14][INFO] [dlc] 592372 TEKKEN 7 DLC 1 Ultimate TEKKEN BOWL & Additional Costumes
+[10:25:14][INFO] [dlc] 592373 TEKKEN 7 DLC 2 Geese Howard Pack
+[10:25:14][INFO] [dlc] 592374 TEKKEN 7 DLC 3 Noctis Lucis Caelum Pack
+[10:25:14][INFO] [dlc] 651430 TEKKEN 7 - TAIKO NO TATSUJIN Pack
+[10:25:14][INFO] [dlc] 682560 TEKKEN 7 - Character Panel
+[10:25:14][INFO] [dlc] 878460 TEKKEN 7 - DLC4: Anna Williams
+[10:25:14][INFO] [dlc] 878461 TEKKEN 7 - DLC5: Lei Wulong
+[10:25:14][INFO] [dlc] 878462 TEKKEN 7 - Craig Marduk (TEKKEN 7 - DLC6: Craig Marduk)
+[10:25:14][INFO] [dlc] 878463 TEKKEN 7 - Armor King (TEKKEN 7 - DLC7: Armor King)
+[10:25:14][INFO] [dlc] 878464 TEKKEN 7 - DLC8 Julia Chang
+[10:25:14][INFO] [dlc] 878465 TEKKEN 7 - DLC9 Negan
+[10:25:14][INFO] [dlc] 878466 TEKKEN 7 - Bonus Character Customization Items
+[10:25:14][INFO] [dlc] 878467 TEKKEN 7 - Season Pass 2
+[10:25:14][INFO] Original Valve API found and loaded C:/Program Files (x86)/Steam/steamapps/common/TEKKEN 7/Engine/Binaries/ThirdParty/Steamworks/Steamv132/Win64/steam_api64_o.dll
+[10:25:14][INFO] SteamApps = STEAMAPPS_INTERFACE_VERSION007
+[10:25:14][INFO] SteamClient = SteamClient017
+[10:25:14][INFO] SteamUser = SteamUser018
+[10:25:35][INFO] getInstalledDlc 592370 true
+[10:25:35][INFO] getInstalledDlc 592371 true
+[10:25:35][INFO] getInstalledDlc 651430 true
+[10:25:35][INFO] getInstalledDlc 592372 true
+[10:25:35][INFO] getInstalledDlc 682560 true
+[10:25:35][INFO] getInstalledDlc 592373 true
+[10:25:35][INFO] getInstalledDlc 592374 true
+[10:25:35][INFO] getInstalledDlc 878460 true
+[10:25:35][INFO] getInstalledDlc 878461 true
+[10:25:35][INFO] getInstalledDlc 878462 true
+[10:25:35][INFO] getInstalledDlc 878463 true
+[10:25:35][INFO] getInstalledDlc 878464 true
+[10:25:35][INFO] getInstalledDlc 878465 true
+[10:25:35][INFO] getInstalledDlc 878466 true
+[10:25:35][INFO] getInstalledDlc 1114560 true
+[10:25:35][INFO] getInstalledDlc 1114561 true
+[10:25:35][INFO] getInstalledDlc 1162600 true
+[10:25:35][INFO] getInstalledDlc 1162601 true
+[10:25:35][INFO] getInstalledDlc 1162602 true
+[10:25:35][INFO] getInstalledDlc 1236500 true
+[10:25:35][INFO] getInstalledDlc 1236501 true
+[10:25:35][INFO] getInstalledDlc 1289450 true
+[10:25:35][INFO] getInstalledDlc 1289451 true
+[10:25:35][INFO] getInstalledDlc 1289452 true
+[10:25:35][INFO] getInstalledDlc 1289453 true
+[10:25:35][INFO] getInstalledDlc 1289454 true
+[10:25:38][INFO] getInstalledDlc 592370 true
+[10:25:38][INFO] getInstalledDlc 592371 true
+[10:25:38][INFO] getInstalledDlc 651430 true
+[10:25:38][INFO] getInstalledDlc 592372 true
+[10:25:38][INFO] getInstalledDlc 682560 true
+[10:25:38][INFO] getInstalledDlc 592373 true
+[10:25:38][INFO] getInstalledDlc 592374 true
+[10:25:38][INFO] getInstalledDlc 878460 true
+[10:25:38][INFO] getInstalledDlc 878461 true
+[10:25:38][INFO] getInstalledDlc 878462 true
+[10:25:38][INFO] getInstalledDlc 878463 true
+[10:25:38][INFO] getInstalledDlc 878464 true
+[10:25:38][INFO] getInstalledDlc 878465 true
+[10:25:38][INFO] getInstalledDlc 878466 true
+[10:25:38][INFO] getInstalledDlc 1114560 true
+[10:25:38][INFO] getInstalledDlc 1114561 true
+[10:25:38][INFO] getInstalledDlc 1162600 true
+[10:25:38][INFO] getInstalledDlc 1162601 true
+[10:25:38][INFO] getInstalledDlc 1162602 true
+[10:25:38][INFO] getInstalledDlc 1236500 true
+[10:25:38][INFO] getInstalledDlc 1236501 true
+[10:25:38][INFO] getInstalledDlc 1289450 true
+[10:25:38][INFO] getInstalledDlc 1289451 true
+[10:25:38][INFO] getInstalledDlc 1289452 true
+[10:25:38][INFO] getInstalledDlc 1289453 true
+[10:25:38][INFO] getInstalledDlc 1289454 true
